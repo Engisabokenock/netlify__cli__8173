@@ -1,0 +1,12 @@
+{
+  "test_validation_mode": "subset",
+  "validation_test_files": [
+    "tests/unit/utils/command-helpers.test.ts",
+    "tests/unit/utils/dot-env.test.ts",
+    "tests/unit/utils/parse-raw-flags.test.ts",
+    "tests/unit/utils/feature-flags.test.ts",
+    "tests/unit/utils/get-cli-package-json.test.ts"
+  ],
+  "validation_test_file_count": 5,
+  "validation_tests_executed": 47
+}
